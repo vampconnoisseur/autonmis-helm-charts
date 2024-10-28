@@ -9,11 +9,6 @@ A Helm chart repository for deploying [Autonmis](https://autonmis.com), providin
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installing the Chart](#installing-the-chart)
-- [Chart Configuration](#chart-configuration)
-- [Upgrading to New Versions](#upgrading-to-new-versions)
-- [Available Versions](#available-versions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 

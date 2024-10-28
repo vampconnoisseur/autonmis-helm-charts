@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   autonmis:
   - apiVersion: v2
+    appVersion: "2.0"
+    created: "2024-10-29T00:13:04.888501+05:30"
+    description: Helm chart to deploy autonmis
+    digest: 8242c666b51e94b220dcd2d7545adc316be638648b6c4539c53a3de9575d690e
+    icon: https://autonmis.com/logo-sidebar-dark.svg
+    name: autonmis
+    type: application
+    urls:
+    - autonmis-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-28T22:40:52.912286+05:30"
+    created: "2024-10-29T00:13:04.888349+05:30"
     description: Helm chart to deploy autonmis
     digest: ebc5892931977288d316eb543befe738bb2b7e3c6a284c59b9d2891124e087d5
     icon: https://autonmis.com/logo-sidebar-dark.svg
@@ -12,4 +23,4 @@ entries:
     urls:
     - autonmis-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-28T22:40:52.911937+05:30"
+generated: "2024-10-29T00:13:04.888017+05:30"
