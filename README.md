@@ -31,5 +31,6 @@ This repository hosts Helm charts for the Autonmis application, enabling you to 
 To add the Autonmis Helm repository:
 
 ```bash
-helm repo add autonmis-helm https://vampconnoisseur.github.io/autonmis-helm-charts
+helm repo add autonmis https://vampconnoisseur.github.io/autonmis-helm-charts
 helm repo update
+```
